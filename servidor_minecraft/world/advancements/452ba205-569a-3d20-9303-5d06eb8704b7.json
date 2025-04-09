@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-08 23:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2025-04-08 23:47:40 +0000"
+    },
+    "done": false
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2025-04-09 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
