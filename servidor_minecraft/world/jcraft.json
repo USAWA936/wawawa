@@ -7,10 +7,10 @@
   "killVampirism": false,
   "damageScalingMinimum": 0.4,
   "scalingPenaltyPerHit": 0.02,
-  "enableMoveCooldowns": true,
+  "enableMoveCooldowns": false,
   "cooldownMultiplier": 1.0,
   "enableIPS": false,
-  "enableFriendlyFire": true,
+  "enableFriendlyFire": false,
   "reduceDeadlyExplosions": true,
   "disableCombatElytra": true,
   "miningBarrage": true
